@@ -2,7 +2,7 @@
 # CDC Data Export System
 
 This project is a containerized backend service that implements a Change Data Capture (CDC) style data export system.
-It supports full, incremental, and delta exports of user data using watermarking.
+It supports full,incremental, and delta exports of user data using watermarking.
 
 ## Prerequisites
 
